@@ -32,6 +32,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=dimaboyfx&show_icons=true&theme=dark&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dimaboyfx&theme=dark&hide_border=true" />
 </p>
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=dimaboyfx&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=dimaboyfx&theme=radical&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dimaboyfx&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ---
 
