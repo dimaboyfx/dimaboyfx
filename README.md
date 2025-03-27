@@ -14,7 +14,6 @@
 
 - 🔥 **Backend Developer & Web Designer**
 - 🎯 **Mastering PHP & Laravel**
-- 💹 **Aspiring Trader & Finance Enthusiast**
 - 🎮 **Passionate about Games & Tech**
 - 🌍 **Based in Tashkent, Uzbekistan**
 
